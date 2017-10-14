@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/strategia-core.iml" filepath="$PROJECT_DIR$/.idea/modules/strategia-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/strategia-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/strategia-core_main.iml" group="strategia-core" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/strategia-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/strategia-core_test.iml" group="strategia-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/strategia-database.iml" filepath="$PROJECT_DIR$/.idea/modules/strategia-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/strategia-database_main.iml" filepath="$PROJECT_DIR$/.idea/modules/strategia-database_main.iml" group="strategia-database" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/strategia-database_test.iml" filepath="$PROJECT_DIR$/.idea/modules/strategia-database_test.iml" group="strategia-database" />
     </modules>
   </component>
 </project>

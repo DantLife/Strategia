@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="strategia-core_main" target="1.5" />
       <module name="strategia-core_test" target="1.5" />
+      <module name="strategia-database_main" target="1.5" />
+      <module name="strategia-database_test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
